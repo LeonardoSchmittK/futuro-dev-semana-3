@@ -1,4 +1,4 @@
-package com.senai.exerciciofuturodev.controller;
+package com.senai.exerciciofuturodev.rest.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
