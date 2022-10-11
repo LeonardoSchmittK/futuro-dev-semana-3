@@ -12,4 +12,9 @@ public class HelloWorldController {
         return "Hello World";
     }
 
+    @GetMapping("/test")
+    public String getTest() {
+        return "test";
+    }
+
 }
